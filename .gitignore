@@ -1,5 +1,6 @@
-# macOS
+# Sistema operativo
 .DS_Store
+Thumbs.db
 
 # Dependencias
 node_modules/
