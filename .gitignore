@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Dependencias
+node_modules/
+
+# Cloudflare / Wrangler
+.wrangler/
+.dev.vars
+.dev.vars.*
+
+# Variables de entorno
+.env
+.env.*

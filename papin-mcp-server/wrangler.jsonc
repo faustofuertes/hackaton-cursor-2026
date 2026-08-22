@@ -1,0 +1,13 @@
+{
+	"$schema": "node_modules/wrangler/config-schema.json",
+	"name": "papin-mcp-server",
+	"main": "src/index.ts",
+	"compatibility_date": "2026-07-02",
+	"compatibility_flags": [
+		"nodejs_compat"
+	],
+	"observability": {
+		"enabled": true
+	},
+	"upload_source_maps": true
+}
